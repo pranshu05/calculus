@@ -1,2 +1,8 @@
-# calculus
-Repo for SC107 project homepage
+## Group Members
+
+- Pranshu Patel
+- Tatva Shah
+- Yug Patel
+- Meet Gandhi
+- Kashish Kanjariya
+- Harshil Vithalani
