@@ -18,6 +18,13 @@ But this equation is for ideal cases. If we think for more realistic approach to
 
 ![image](https://github.com/pranshu05/calculus/assets/70943732/0ba286a4-01a6-4c77-b5af-ac82436e68eb)
 
+On further solving we can derive **minimum gross lift-off mass** 
+
+![image](https://github.com/pranshu05/calculus/assets/70943732/bbd15ed4-d5d8-48fb-a91f-c8e67628f006)
+
+Where **K** is a constant derived below
+
+![image](https://github.com/pranshu05/calculus/assets/70943732/322c304e-3782-4ff3-bdae-3e1985488144)
 
 
 ### Group Members
