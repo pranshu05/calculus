@@ -13,6 +13,8 @@ In rocket projection optimizing staging is very crucial for increasing efficienc
 
 ## Project Explanation
 
+Watch the video below for the explanation.
+
 [![Watch the video](https://img.youtube.com/vi/sEnXYvK8ek4/hqdefault.jpg)](https://www.youtube.com/embed/sEnXYvK8ek4)
 
 ### Group Members
