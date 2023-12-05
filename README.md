@@ -41,9 +41,9 @@ Where **K** is a constant derived below
 
 ### Group Members
 
-- Pranshu Patel
-- Tatva Shah
-- Yug Patel
-- Meet Gandhi
-- Kashish Kanjariya
-- Harshil Vithlani
+- Pranshu Patel (202301143)
+- Tatva Shah (202301153)
+- Yug Patel (202301051)
+- Meet Gandhi (202301219)
+- Kashish Kanjariya (202301135)
+- Harshil Vithlani (202301431)
